@@ -2,10 +2,14 @@
 
 who would have thought ill be doing django😕DJANGO
 
+## EDIT---
+promise to upload pics later
+
 ### Overview
 
 The final assessment for this course is designed to evaluate your understanding of the key concepts and skills you have learned throughout the course. It consists of three exercises and one final graded quiz.
 
+### Overview
 ### Objectives
 
 The primary objectives of the final assessment are to:
