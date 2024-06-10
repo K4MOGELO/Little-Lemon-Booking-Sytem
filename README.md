@@ -5,7 +5,6 @@
 
 The final assessment for this course is designed to evaluate your understanding of the key concepts and skills you have learned throughout the course. It consists of three exercises and one final graded quiz.
 
-### Overview
 ### Objectives
 
 The primary objectives of the final assessment are to:
