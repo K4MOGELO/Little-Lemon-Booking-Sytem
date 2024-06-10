@@ -1,9 +1,5 @@
 # Little-Lemon-Booking-Sytem
 
-who would have thought ill be doing django😕DJANGO
-
-## EDIT---
-promise to upload pics later
 
 ### Overview
 
